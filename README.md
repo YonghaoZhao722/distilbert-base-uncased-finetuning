@@ -5,7 +5,7 @@ This repository contains a DistilBERT model fine-tuned using the Hugging Face Tr
 ## Contents
 
 - `dataset/`: Contains scripts or code related to dataset handling and processing.
-- `pretrained/`: **(Please manually download and place the `pytorch_model.bin` file here from [this link](https://huggingface.co/distilbert-base-uncased/resolve/main/pytorch_model.bin?download=true)**)
+- `pretrained/`: **(Please manually download and place the `pytorch_model.bin` file here from the link below)
 
 ## Pretrained Model
 
