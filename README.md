@@ -21,3 +21,6 @@ Run main.ipynb
 ## Predict
 
 Run predict.ipynb
+
+## TODO
+- Use the `evaluate` library to assess model accuracy
