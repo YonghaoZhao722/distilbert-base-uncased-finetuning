@@ -12,7 +12,7 @@ The model is based on the paper [DistilBERT: a distilled version of BERT: smalle
 - 
 ## Pretrained Model
 
-Please download the pre-trained model `pytorch_model.bin` from the following link and place it inside the `pretrained/` folder: [Download Model](https://huggingface.co/distilbert-base-uncased/resolve/main/pytorch_model.bin?download=true)
+Please download the pre-trained model `pytorch_model.bin` from the following link and move it to the `pretrained/` folder: [Download Model](https://huggingface.co/distilbert-base-uncased/resolve/main/pytorch_model.bin?download=true)
 
 ## Usage
 
