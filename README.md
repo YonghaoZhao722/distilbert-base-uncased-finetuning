@@ -6,8 +6,6 @@ This repository contains a DistilBERT model fine-tuned using the Hugging Face Tr
 
 - `dataset/`: Contains scripts or code related to dataset handling and processing.
 - `pretrained/`: **(Please manually download and place the `pytorch_model.bin` file here from [this link](https://huggingface.co/distilbert-base-uncased/resolve/main/pytorch_model.bin?download=true)**)
-- `training/`: Includes scripts used for fine-tuning and training the DistilBERT model.
-- `examples/`: Demonstrates how to utilize the trained model for sentiment analysis.
 
 ## Pretrained Model
 
