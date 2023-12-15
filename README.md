@@ -13,6 +13,14 @@ The model is based on the paper [DistilBERT: a distilled version of BERT: smalle
 
 Please download the pre-trained model `pytorch_model.bin` from the following link and move it to the `pretrained/` folder: [Download Model](https://huggingface.co/distilbert-base-uncased/resolve/main/pytorch_model.bin?download=true)
 
+## Building the Environment
+
+To set up the required environment, install the dependencies listed in the `requirements.txt` file using pip:
+
+```bash
+pip install -r requirements.txt
+```
+
 ## Usage
 
 Run main.ipynb
